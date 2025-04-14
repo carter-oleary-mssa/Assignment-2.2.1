@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment_2._2._1
 {
-    internal class Bell(Helicopter)
+    internal class Bell : Helicopter
     {
     }
 }
